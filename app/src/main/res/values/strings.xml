@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="adicao">+</string>
+    <string name="multiplicação">*</string>
+    <string name="divição">/</string>
+    <string name="subtracao">-</string>
+    <string name="numero_1">Número 1</string>
+    <string name="numero_2">Número 2</string>
+    <string name="limparLog">Limpar</string>
+    <string-array name="Log"></string-array>
+</resources>
